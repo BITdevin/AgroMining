@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AgroMining Solutions | Industrial Processing Expertise</title>
+    <meta name="description" content="AgroMining Solutions offers over 35 years of expertise in industrial processing solutions for water, beverage, renewable resources, mining, energy, and chemical sectors.">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#1E5E3A">
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+            colors: {
+              primary: '#1E5E3A', // Industrial Green
+              secondary: '#4682B4', // Steel Blue
+              accent: '#D2691E', // Earth Orange
+              'text-main': '#2C3E50',
+              'bg-light': '#F8F9FA',
+            },
+          },
+        },
+      }
+    </script>
+
+    <!-- GA4 Snippet Placeholder -->
+    <!-- Google tag (gtag.js) -->
+    
+    <!-- Tidio Chat Widget Placeholder -->
+    
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
+</head>
+  <body class="bg-white dark:bg-gray-900">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+
+    <!-- Service Worker Placeholder -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          // navigator.serviceWorker.register('/sw.js');
+          console.log('Service Worker registration placeholder');
+        });
+      }
+    </script>
+  </body>
+</html>
