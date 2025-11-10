@@ -55,7 +55,7 @@ const ContactSection: React.FC = () => {
           <div className="space-y-8">
             <div className="bg-white dark:bg-gray-700 p-8 rounded-lg shadow-lg">
                 <h3 className="text-2xl font-bold text-text-main dark:text-white mb-4">Contact Details</h3>
-                <p className="text-gray-600 dark:text-gray-300 mb-2"><strong>Phone / WhatsApp:</strong> <a href="tel:+27829664705" className="text-primary dark:text-secondary hover:underline">+27 82 966 4705</a></p>
+                <p className="text-gray-600 dark:text-gray-300 mb-2"><strong>Phone / WhatsApp:</strong> <a href="tel:+2782 373 7049" className="text-primary dark:text-secondary hover:underline">+27 82 373 7049</a></p>
                 <p className="text-gray-600 dark:text-gray-300 mb-2"><strong>Email:</strong> <a href="mailto:info@agromining.co.za" className="text-primary dark:text-secondary hover:underline">info@agromining.co.za</a></p>
                 <p className="text-gray-600 dark:text-gray-300"><strong>Location:</strong> Pretoria, South Africa</p>
             </div>
