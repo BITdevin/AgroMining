@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
           href="#contact" 
           className="inline-block bg-accent hover:bg-orange-600 text-white font-bold text-lg py-4 px-8 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 animate-fade-in-up"
         >
-          Get a Free Feasibility Quote
+          Get a Free Quote
         </a>
       </div>
     </section>
