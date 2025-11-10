@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
           Engineered Processing Solutions for Industry
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl max-w-3xl mx-auto mb-8 animate-fade-in-up">
-          Over 35 years of expertise in delivering robust, efficient, and innovative solutions across diverse sectors.
+          Years of expertise in delivering robust, efficient, and innovative solutions across diverse sectors.
         </p>
         <a 
           href="#contact" 
