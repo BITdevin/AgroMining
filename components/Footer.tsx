@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
             <h4 className="font-semibold text-lg mb-4">Connect With Us</h4>
             <p className="text-gray-400">Pretoria, South Africa</p>
             <p className="text-gray-400">info@agromining.co.za</p>
-            <p className="text-gray-400">+27 82 966 4705</p>
+            <p className="text-gray-400">+27 12 800 2091</p>
           </div>
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8 text-center text-gray-500">
