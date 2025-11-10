@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8 text-center text-gray-500">
-          <p>&copy; {new Date().getFullYear()} AgroMining Solutions. All Rights Reserved. Website by bizwhatwhat, a brand of Infinityguard Technologies.</p>
+          <p>&copy; {new Date().getFullYear()} AgroMining Solutions. All Rights Reserved. Website by  Infinityguard Technologies.</p>
         </div>
       </div>
     </footer>
