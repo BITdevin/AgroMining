@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for agromining on 2025-11-10T13:19:55Z
+# fly.toml app configuration file generated for agromining-uvrsna on 2025-11-10T13:48:43Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'agromining'
+app = 'agromining-uvrsna'
 primary_region = 'iad'
 
 [build]
